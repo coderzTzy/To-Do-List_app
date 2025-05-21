@@ -20,7 +20,7 @@ import com.example.to_dolist.Utils.DataBaseHelper;
 import java.util.List;
 import android.os.Bundle;
 public class ToDoAdapter extends RecyclerView.Adapter<ToDoAdapter.MyViewHolder> {
-i changed this
+i changed this part 3
     private List<ToDoModel> mList;
     private MainActivity activity;
     private DataBaseHelper myDB;
